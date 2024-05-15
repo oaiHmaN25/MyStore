@@ -7,6 +7,29 @@
         mc:Ignorable="d"
         Title="Login" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+            <Label Content="Login" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+            <Label Content="Username:"></Label>
+            <TextBox Name="UsernameTextBox" Height="30" Margin="0,5"/>
+            <Label Content="Password:"></Label>
+            <PasswordBox Name="PasswordBox" Height="30" Margin="0,5"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">
+            <Button Content="Login" Click="LoginButton_Click" Margin="0,5"/>
+        </StackPanel>
     </Grid>
 </Window>

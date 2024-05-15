@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using MyStore_G5.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +21,42 @@ namespace MyStore_G5
     /// </summary>
     public partial class Login : Window
     {
+        private MyStoreContext con;
         public Login()
         {
             InitializeComponent();
+            con = new MyStoreContext();
+        }
+
+        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        {
+            string username = UsernameTextBox.Text;
+            string password = PasswordBox.Password;
+
+            var account = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetSection("account");
+            var user = con.Staffs.FirstOrDefault(u => u.Name == username && u.Password == password);
+
+            if (username.Equals(account["username"]) && password.Equals(account["password"]))
+            {
+                Session.Username = username;
+                var Admin = new Admin();
+                Admin.Show();
+                this.Close();
+            }
+            else
+            {
+                if (user != null)
+                {
+                    Session.Username = username;
+                    var Staff = new Staff();
+                    Staff.Show();
+                    this.Close();
+                }
+                else
+                {
+                    MessageBox.Show("Tên đăng nhập hoặc mật khẩu không đúng!");
+                }
+            }
         }
     }
 }

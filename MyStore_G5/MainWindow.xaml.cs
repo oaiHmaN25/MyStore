@@ -30,18 +30,17 @@ namespace MyStore_G5
         {
             using (var context = new MyStoreContext())
             {
-                // Truy vấn các category từ cơ sở dữ liệu
-                var categories = context.Categories.ToList();
+                var productsWithCategories = context.Products
+                    .Select(p => new { p.ProductName, p.Category.CategoryName }) // Lựa chọn tên sản phẩm và tên danh mục
+                    .ToList();
 
-                // Tạo nội dung cho message box
-                string message = "Categories:\n";
-                foreach (var category in categories)
+                string message = "Products:\n";
+                foreach (var product in productsWithCategories)
                 {
-                    message += $"{category.CategoryName}\n";
+                    message += $"Product: {product.ProductName}, Category: {product.CategoryName}\n";
                 }
 
-                // Hiển thị message box
-                MessageBox.Show(message, "Categories", MessageBoxButton.OK, MessageBoxImage.Information);
+                MessageBox.Show(message, "Products", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
     }

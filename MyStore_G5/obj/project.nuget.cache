@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+eFXI7Qpwy3GP6EQ9PG44yla2PIj1zDMQCpP3UBEDFZshIXQX4LmBIryWjf+CWG1rpBoq2FdUEwtCd8Oe44Rg==",
+  "dgSpecHash": "hgQFfvxDU9D6LLntj30J7SdGgtYPCTGw2jchFZdnLIsW0JIgXQ8eIO3AuZRT6Fq7ofxNfDAJIRljqVI9FW/2zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\PRN211_SU24\\MyStore_G5\\MyStore_G5.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\MyStore_G5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

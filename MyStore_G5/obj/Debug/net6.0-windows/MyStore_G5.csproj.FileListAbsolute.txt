@@ -187,3 +187,5 @@ C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Admi
 C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Staff.g.cs
 C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Admin.baml
 C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Staff.baml
+C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Profile.g.cs
+C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Profile.baml

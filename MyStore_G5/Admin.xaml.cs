@@ -23,5 +23,11 @@ namespace MyStore_G5
         {
             InitializeComponent();
         }
+
+        private void Profile_Click(object sender, RoutedEventArgs e)
+        {
+            Profile pro = new Profile();
+            frameMain.Content = pro;
+        }
     }
 }

@@ -132,12 +132,6 @@ namespace MyStore_G5
                     }
                     else
                     {
-
-                        string jsonContent = File.ReadAllText("appsettings.json");
-                        var jsonObject = JsonSerializer.Deserialize<dynamic>(jsonContent);
-                        jsonObject["account"]["password"] = newPassword;
-                        string updatedJsonString = JsonSerializer.Serialize(jsonObject);
-                        File.WriteAllText("appsettings.json", updatedJsonString);
                         MessageBox.Show("Thành công!");
                         PasswordStackPanel.Children.Clear();
                     }

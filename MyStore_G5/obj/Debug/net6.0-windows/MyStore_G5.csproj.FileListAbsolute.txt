@@ -189,3 +189,4 @@ C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Admi
 C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Staff.baml
 C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Profile.g.cs
 C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\Profile.baml
+C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\bin\Debug\net6.0-windows\Newtonsoft.Json.dll

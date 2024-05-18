@@ -37,7 +37,7 @@
                 <Separator Margin="0,5,0,5" Width="Auto" Height="1" Background="LightBlue"/>
                 <StackPanel Orientation="Vertical" Height="84" Width="153">
                     <Button Content="Profile" Margin="5" Background="White" BorderBrush="Gray" Click="Profile_Click"/>
-                    <Button Content="Logout" Margin="10" Background="Transparent" BorderThickness="0" Width="50" HorizontalAlignment="Left"/>
+                    <Button Content="Logout" Margin="10" Background="Transparent" BorderThickness="0" Width="50" HorizontalAlignment="Left" Click="Logout"/>
                 </StackPanel>
             </StackPanel>
         </Grid>

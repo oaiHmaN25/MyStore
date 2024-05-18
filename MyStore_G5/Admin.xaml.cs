@@ -29,5 +29,11 @@ namespace MyStore_G5
             Profile pro = new Profile();
             frameMain.Content = pro;
         }
+
+        private void Logout(object sender, RoutedEventArgs e)
+        {
+            Session.Logout();
+            this.Close();
+        }
     }
 }

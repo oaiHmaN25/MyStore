@@ -9,5 +9,14 @@ namespace MyStore_G5
     internal class Session
     {
         public static string? Username { get; set; } = null;
+
+        public static void Logout()
+        {
+            Username = null;
+            Login login = new Login();
+            login.Show();
+        }
     }
+
+    
 }

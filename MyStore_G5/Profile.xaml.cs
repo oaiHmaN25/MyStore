@@ -22,6 +22,7 @@ using System.IO;
 using System.Text.Json.Nodes;
 using System.Security.Principal;
 using System.Text.Json;
+using Newtonsoft.Json.Linq;
 
 namespace MyStore_G5
 {
@@ -132,10 +133,22 @@ namespace MyStore_G5
                     }
                     else
                     {
+                        string filePath = "appsettings.json";
+                        string jsonString = File.ReadAllText(filePath);
+
+                        JObject jsonObject = JObject.Parse(jsonString);
+                        jsonObject["account"]["password"] = newPassword;
+
+                        string updatedJsonString = jsonObject.ToString();
+                        File.WriteAllText(filePath, updatedJsonString);
                         MessageBox.Show("Thành công!");
                         PasswordStackPanel.Children.Clear();
                     }
 
+                }
+                else
+                {
+                    MessageBox.Show("Mật khẩu không chính xác!");
                 }
             }
             

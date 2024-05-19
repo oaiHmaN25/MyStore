@@ -36,5 +36,11 @@ namespace MyStore_G5
             Session.Logout();
             this.Close();
         }
+
+        private void ManageOrder(object sender, RoutedEventArgs e)
+        {
+            StaffOrder order = new StaffOrder();
+            frameMain.Content = order;
+        }
     }
 }

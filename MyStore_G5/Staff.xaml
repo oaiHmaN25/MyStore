@@ -29,7 +29,7 @@
             <StackPanel Margin="0,36,0,10" Grid.RowSpan="2">
                 <Separator Margin="0,5,0,5" Width="Auto" Height="1" Background="LightBlue"/>
                 <StackPanel Orientation="Vertical" Height="56" Width="156">
-                    <Button Content="Manage Order" Margin="5" Background="White" BorderBrush="Gray"/>
+                    <Button Content="Manage Order" Margin="5" Background="White" BorderBrush="Gray" Click="ManageOrder"/>
 
                 </StackPanel>
             </StackPanel>

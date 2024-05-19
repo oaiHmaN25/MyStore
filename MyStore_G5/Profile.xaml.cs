@@ -81,14 +81,10 @@ namespace MyStore_G5
 
         private void ChangePassClickEvent(object sender, RoutedEventArgs e)
         {
-            string[] passwords = new string[3];
-            for (int i = 0; i < 3; i++)
-            {
-                passwords[i] = ConvertToUnsecureString(passwordBoxes[i].SecurePassword);
-            }
-            string oldPassword = passwords[0];
-            string newPassword = passwords[1];
-            string confPassWord = passwords[2];
+            
+            string oldPassword = passwordBoxes[0].Password;
+            string newPassword = passwordBoxes[1].Password;
+            string confPassWord = passwordBoxes[2].Password;
            
             if (!Session.Username.Equals("admin"))
             {
@@ -154,23 +150,5 @@ namespace MyStore_G5
             
         }
 
-        private string ConvertToUnsecureString(SecureString securePassword)
-        {
-            if (securePassword == null)
-            {
-                return string.Empty;
-            }
-
-            IntPtr unmanagedString = IntPtr.Zero;
-            try
-            {
-                unmanagedString = Marshal.SecureStringToGlobalAllocUnicode(securePassword);
-                return Marshal.PtrToStringUni(unmanagedString);
-            }
-            finally
-            {
-                Marshal.ZeroFreeGlobalAllocUnicode(unmanagedString);
-            }
-        }
     }
 }

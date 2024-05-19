@@ -45,6 +45,7 @@
 
         <Grid Grid.Column="1">
             <Frame x:Name="frameMain" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" NavigationUIVisibility="Hidden" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"/>
+            <Label Name="lableWelcome" Content="WELCOME!" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30"></Label>
         </Grid>
     </Grid>
 </Window>

@@ -27,6 +27,7 @@ namespace MyStore_G5
        
         private void Profile_Click(object sender, RoutedEventArgs e)
         {
+            lableWelcome.Visibility = Visibility.Hidden;
             Profile pro = new Profile();
             frameMain.Content = pro;
         }

@@ -24,9 +24,9 @@
 
         <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
             <Label Content="Username:"></Label>
-            <TextBox Name="UsernameTextBox" Height="30" Margin="0,5"/>
+            <TextBox Name="UsernameTextBox" Height="30" Margin="0,5" Padding="0,5,0,5"/>
             <Label Content="Password:"></Label>
-            <PasswordBox Name="PasswordBox" Height="30" Margin="0,5"/>
+            <PasswordBox Name="PasswordBox" Height="30" Margin="0,5" Padding="0,5,0,5"/>
         </StackPanel>
         <StackPanel Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">
             <Button Content="Login" Click="LoginButton_Click" Margin="0,5"/>

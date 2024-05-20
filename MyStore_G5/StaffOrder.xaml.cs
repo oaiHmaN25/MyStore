@@ -32,5 +32,10 @@ namespace MyStore_G5
             var addOrder = new StaffAddOrder();
             addOrder.Show();
         }
+
+        private void lvOrders_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

@@ -41,6 +41,11 @@ namespace MyStore_G5
             this.Close();
         }
 
-        
+        private void Staff_Click(object sender, RoutedEventArgs e)
+        {
+            lableWelcome.Visibility = Visibility.Hidden;
+            StaffManagement sm = new StaffManagement();
+            frameMain.Content = sm;
+        }
     }
 }

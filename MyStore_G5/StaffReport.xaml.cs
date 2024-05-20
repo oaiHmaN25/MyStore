@@ -48,6 +48,10 @@ namespace MyStore_G5
             lvOrders.ItemsSource = orders;
         }
 
+        private void lvOrders_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 
 

@@ -13,7 +13,7 @@
         <Label Content="ManagerOrder" HorizontalAlignment="Left" Margin="400,125,0,0" VerticalAlignment="Top" FontSize="30"/>
         <Label Content="ManagerOrder" HorizontalAlignment="Left" Margin="400,0,0,0" VerticalAlignment="Center" FontSize="30"/>
 
-        <ListView Grid.Row="1" Name="lvOrders" Margin="20 0 20 0" Width="auto">
+        <ListView Grid.Row="1" Name="lvOrders" Margin="20 0 20 0" Width="auto" SelectionChanged="lvOrders_SelectionChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Order ID" Width="100"

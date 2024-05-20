@@ -2388,19 +2388,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\dtxuj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\MyStore_G5.csproj",
+      "projectUniqueName": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\MyStore_G5.csproj",
       "projectName": "MyStore_G5",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\MyStore_G5.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\obj\\",
+      "projectPath": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\MyStore_G5.csproj",
+      "packagesPath": "C:\\Users\\dtxuj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dtxuj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2473,7 +2473,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

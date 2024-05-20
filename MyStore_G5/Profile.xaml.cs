@@ -37,7 +37,19 @@ namespace MyStore_G5
         {
             InitializeComponent();
             con = new MyStoreContext();
-            UsernameLable.Content = Session.Username;
+            if (!Session.Username.Equals("admin"))
+            {
+                var user = con.Staffs.FirstOrDefault(u => u.Name == Session.Username);
+                UsernameLable.Content = user.Name;
+                IdLable.Content = user.StaffId.ToString();
+            }
+            else
+            {
+                IdLable.Content = "1";
+                UsernameLable.Content = Session.Username;
+            }
+            
+            
         }
 
         private void ChangePass_Click(object sender, RoutedEventArgs e)
@@ -53,13 +65,13 @@ namespace MyStore_G5
                 Label label = new Label();
                 label.Content = labels[i];
                 label.Margin = new Thickness(0, 5, 0, 0);
-                label.HorizontalAlignment = HorizontalAlignment.Center;
+                label.HorizontalAlignment = HorizontalAlignment.Left;
 
                 // Tạo ô nhập liệu
                 PasswordBox passwordBox = new PasswordBox();
                 passwordBox.Margin = new Thickness(0, 5, 0, 0);
                 passwordBox.Width = 130;
-                passwordBox.HorizontalAlignment = HorizontalAlignment.Center;
+                passwordBox.HorizontalAlignment = HorizontalAlignment.Left;
                 passwordBoxes[i] = passwordBox;
 
 
@@ -74,6 +86,7 @@ namespace MyStore_G5
                     button.Width = 50;
                     button.Margin = new Thickness(0, 5, 0, 0);
                     button.Click += new RoutedEventHandler(ChangePassClickEvent);
+                    button.HorizontalAlignment = HorizontalAlignment.Left;
                     PasswordStackPanel.Children.Add(button);
                 }
             }
@@ -85,8 +98,12 @@ namespace MyStore_G5
             string oldPassword = passwordBoxes[0].Password;
             string newPassword = passwordBoxes[1].Password;
             string confPassWord = passwordBoxes[2].Password;
-           
-            if (!Session.Username.Equals("admin"))
+
+            if(oldPassword == "" || newPassword == "" || confPassWord == "")
+            {
+                MessageBox.Show("Vui lòng điền đầy đủ các trường thông tin!");
+            }
+            else if (!Session.Username.Equals("admin"))
             {
                 MyStoreContext con = new MyStoreContext();
                 var user = con.Staffs.FirstOrDefault(u => u.Name == Session.Username);
@@ -100,11 +117,15 @@ namespace MyStore_G5
                     {
                         MessageBox.Show("Mật khẩu mới không khớp nhau!");
                     }
+                    else if (newPassword.Length<6)
+                    {
+                        MessageBox.Show("Mật khẩu phải có ít nhất 6 ký tự!");
+                    }
                     else
                     {
                         user.Password = newPassword;
                         con.SaveChanges();
-                        MessageBox.Show("Thành công!");
+                        MessageBox.Show("Thay đổi mật khẩu thành công!");
                         PasswordStackPanel.Children.Clear();
                     }
 
@@ -137,7 +158,7 @@ namespace MyStore_G5
 
                         string updatedJsonString = jsonObject.ToString();
                         File.WriteAllText(filePath, updatedJsonString);
-                        MessageBox.Show("Thành công!");
+                        MessageBox.Show("Thay đổi mật khẩu thành công!");
                         PasswordStackPanel.Children.Clear();
                     }
 

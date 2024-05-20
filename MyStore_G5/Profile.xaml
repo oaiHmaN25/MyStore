@@ -9,11 +9,13 @@
       Title="Profile">
 
     <Grid>
-        <Image Source="Images/user.jpg" HorizontalAlignment="Left" Height="100" Margin="110,88,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image Source="Images/user.jpg" HorizontalAlignment="Left" Height="100" Margin="110,60,0,0" VerticalAlignment="Top" Width="100"/>
         <Label Content="Profile" HorizontalAlignment="Center" VerticalAlignment="Top" Height="53" Width="96" FontSize="30"/>
-        <Label Name="UsernameLable" Content="" HorizontalAlignment="Left" Margin="96,193,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center"  Height="43" Width="128" FontSize="25"/>
-        <Button Content="Change Pass" HorizontalAlignment="Left" Margin="118,241,0,0" VerticalAlignment="Top" Height="22" Width="84" Click="ChangePass_Click"/>
-        <StackPanel Name="PasswordStackPanel" Margin="295,101,186,91"/>
-
+        <Label Name="UsernameLable" Content="" HorizontalAlignment="Left" Margin="294,91,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Left"  Height="31" Width="122"/>
+        <Button Content="Change Pass" HorizontalAlignment="Left" Margin="240,127,0,0" VerticalAlignment="Top" Height="22" Width="84" Click="ChangePass_Click"/>
+        <StackPanel Name="PasswordStackPanel" Margin="240,164,241,28"/>
+        <Label Content="Id :" HorizontalAlignment="Left" Margin="240,60,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name :" HorizontalAlignment="Left" Margin="240,91,0,0" VerticalAlignment="Top"/>
+        <Label Name="IdLable" Content="" HorizontalAlignment="Left" Margin="294,60,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Left"  Height="29" Width="116"/>
     </Grid>
 </Page>

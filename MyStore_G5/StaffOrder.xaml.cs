@@ -25,6 +25,12 @@ namespace MyStore_G5
             InitializeComponent();
         }
 
-        
+      
+
+        private void Button_Click_Add(object sender, RoutedEventArgs e)
+        {
+            var addOrder = new StaffAddOrder();
+            addOrder.Show();
+        }
     }
 }

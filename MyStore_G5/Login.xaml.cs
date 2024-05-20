@@ -51,6 +51,7 @@ namespace MyStore_G5
                 if (user != null)
                 {
                     Session.Username = username;
+                    Session.LoggedInStaffId = user.StaffId;
                     var Staff = new Staff();
                     Staff.Show();
                     this.Close();

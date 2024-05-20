@@ -12,7 +12,7 @@
         <Label Content="ManagerOrder" HorizontalAlignment="Left" Margin="400,125,0,0" VerticalAlignment="Top" FontSize="30"/>
         <Label Content="ManagerOrder" HorizontalAlignment="Left" Margin="400,0,0,0" VerticalAlignment="Center" FontSize="30"/>
 
-        <ListView Name="lvOrders" Margin="155,109,34,25" Width="auto">
+        <ListView Name="lvOrders" Margin="132,109,10,10" Width="auto">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Order ID" Width="100"
@@ -26,7 +26,9 @@
                 </GridView>
             </ListView.View>
         </ListView>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="579,34,0,0" VerticalAlignment="Top" Height="47" Width="87" />
-        <TextBlock HorizontalAlignment="Left" Height="47" Margin="243,34,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="297"/>
+        <Button Content="Add" HorizontalAlignment="Left" Margin="174,29,0,0" VerticalAlignment="Top" Click="Button_Click_Add" Height="42" Width="74"/>
+        <Button Content="Delete" HorizontalAlignment="Left" Margin="284,29,0,0" VerticalAlignment="Top" Height="42" Width="66"/>
+        <Button Content="Edit" HorizontalAlignment="Left" Margin="390,29,0,0" VerticalAlignment="Top" Height="42" Width="71"/>
+
     </Grid>
 </Page>

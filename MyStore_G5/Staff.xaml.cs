@@ -43,5 +43,11 @@ namespace MyStore_G5
             StaffOrder order = new StaffOrder();
             frameMain.Content = order;
         }
+
+        private void Report(object sender, RoutedEventArgs e)
+        {
+            StaffReport report = new StaffReport();
+            frameMain.Content = report;
+        }
     }
 }

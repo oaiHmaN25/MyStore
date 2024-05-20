@@ -19,8 +19,8 @@
         <Grid Grid.Column="0">
             <Grid.RowDefinitions>
                 <RowDefinition Height="54*" />
-                <RowDefinition Height="33*" />
-                <RowDefinition Height="347*" />
+                <RowDefinition Height="79*" />
+                <RowDefinition Height="301*" />
             </Grid.RowDefinitions>
 
             <StackPanel Grid.Row="0">
@@ -28,14 +28,15 @@
             </StackPanel>
             <StackPanel Margin="0,36,0,10" Grid.RowSpan="2">
                 <Separator Margin="0,5,0,5" Width="Auto" Height="1" Background="LightBlue"/>
-                <StackPanel Orientation="Vertical" Height="56" Width="156">
+                <StackPanel Orientation="Vertical" Height="108" Width="156">
                     <Button Content="Manage Order" Margin="5" Background="White" BorderBrush="Gray" Click="ManageOrder"/>
+                    <Button Content="Report" Margin="5" Background="White" BorderBrush="Gray" Click="Report"/>
 
                 </StackPanel>
             </StackPanel>
             <StackPanel Grid.Row="2" Margin="0,2,0,0">
                 <Separator Margin="0,5,0,5" Width="Auto" Height="1" Background="LightBlue"/>
-                <StackPanel Orientation="Vertical" Height="99" Width="153">
+                <StackPanel Orientation="Vertical" Height="94" Width="158">
                     <Button Content="Profile" Margin="5" Background="White" BorderBrush="Gray" Click="Profile_Click"/>
                     <Button Content="Logout" Margin="10" Background="Transparent" BorderThickness="0" Width="50" HorizontalAlignment="Left" Click="Logout"/>
                 </StackPanel>

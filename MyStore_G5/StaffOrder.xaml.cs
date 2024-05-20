@@ -24,5 +24,7 @@ namespace MyStore_G5
         {
             InitializeComponent();
         }
+
+        
     }
 }

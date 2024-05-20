@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyStore_G5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6db35784e4d4dac12cf8572c524d58aa771318b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyStore_G5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyStore_G5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -30,11 +30,17 @@ namespace MyStore_G5
             Profile pro = new Profile();
             frameMain.Content = pro;
         }
-
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AdminReport adminReport = new AdminReport();
+            frameMain.Content  = adminReport;
+        }
         private void Logout(object sender, RoutedEventArgs e)
         {
             Session.Logout();
             this.Close();
         }
+
+        
     }
 }

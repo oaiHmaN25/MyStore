@@ -10,6 +10,23 @@
 
     <Grid>
         <Label Content="ManagerOrder" HorizontalAlignment="Left" Margin="400,125,0,0" VerticalAlignment="Top" FontSize="30"/>
+        <Label Content="ManagerOrder" HorizontalAlignment="Left" Margin="400,0,0,0" VerticalAlignment="Center" FontSize="30"/>
 
+        <ListView Name="lvOrders" Margin="155,109,34,25" Width="auto">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Order ID" Width="100"
+                    DisplayMemberBinding="{Binding Path=OrderId}"></GridViewColumn>
+                    <GridViewColumn Header="Order Date" Width="100"
+                    DisplayMemberBinding="{Binding Path=OrderDate}"></GridViewColumn>
+                    <GridViewColumn Header="Staff ID" Width="100"
+                    DisplayMemberBinding="{Binding Path=StaffId}"></GridViewColumn>
+                    <GridViewColumn Header="Staff Name" Width="100"
+                    DisplayMemberBinding="{Binding Path=Staff.Name}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="579,34,0,0" VerticalAlignment="Top" Height="47" Width="87" />
+        <TextBlock HorizontalAlignment="Left" Height="47" Margin="243,34,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="297"/>
     </Grid>
 </Page>

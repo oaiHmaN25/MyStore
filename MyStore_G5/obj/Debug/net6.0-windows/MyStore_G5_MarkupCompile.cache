@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\
+C:\Users\Admin\Desktop\MyStore\MyStore_G5\obj\Debug\net6.0-windows\
 MyStore_G5
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Admin\OneDrive\Desktop\MyStore\MyStore_G5\App.xaml
-6-2030930396
+C:\Users\Admin\Desktop\MyStore\MyStore_G5\App.xaml
+8-1238306244
 
-15-409157407
-221138481230
-Admin.xaml;Login.xaml;MainWindow.xaml;Profile.xaml;Staff.xaml;StaffOrder.xaml;
+171262497751
+221-820381882
+Admin.xaml;AdminReport.xaml;Login.xaml;MainWindow.xaml;Profile.xaml;Staff.xaml;StaffOrder.xaml;StaffReport.xaml;
 
 False
 

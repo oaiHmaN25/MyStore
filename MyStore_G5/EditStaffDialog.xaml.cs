@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Shapes;
+
+namespace MyStore_G5
+{
+    /// <summary>
+    /// Interaction logic for EditStaffDialog.xaml
+    /// </summary>
+    public partial class EditStaffDialog : Window
+    {
+        private MyStore_G5.Models.Staff staffToUpdate;
+
+        public EditStaffDialog(MyStore_G5.Models.Staff staff)
+        {
+            InitializeComponent();
+            ComboBoxItem selectedItem = (ComboBoxItem)cmbRole.SelectedItem;
+            string role = selectedItem.Tag.ToString();
+            staffToUpdate = staff;
+
+            // Set the initial values in the text boxes
+            nameTextBox.Text = staffToUpdate.Name;
+            passwordTextBox.Text = staffToUpdate.Password;
+        }
+
+        // Method to get the updated staff details
+        public MyStore_G5.Models.Staff GetUpdatedStaffDetails()
+        {
+            // Update the staff details from the text boxes and combo box
+            staffToUpdate.Name = nameTextBox.Text;
+            staffToUpdate.Password = passwordTextBox.Text;
+            staffToUpdate.Role = int.Parse(cmbRole.SelectedItem.ToString()); // or cmbRole.Text, depending on what you want to save
+
+            return staffToUpdate;
+        }
+
+        private void Update_Click(object sender, RoutedEventArgs e)
+        {
+                // Close the dialog with DialogResult set to true to indicate success
+                DialogResult = true;
+        }
+
+        private void Cancel_Click(object sender, RoutedEventArgs e)
+        {
+                // Close the dialog with DialogResult set to false to indicate cancellation
+                DialogResult = false;
+        }
+    }
+    
+}

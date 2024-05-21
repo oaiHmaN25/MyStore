@@ -85,18 +85,85 @@ namespace MyStore_G5
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Đã xảy ra lỗi khi thêm nhân viên mới: {ex.Message}");
+                MessageBox.Show($"An error occurred while adding a new staff: {ex.Message}");
             }
         }
 
         private void Update_Click(object sender, RoutedEventArgs e)
         {
+            try
+            {
+                // Get the selected staff from the ListView
+                MyStore_G5.Models.Staff selectedStaff = staffListView.SelectedItem as MyStore_G5.Models.Staff;
 
+                // Check if a staff is selected
+                if (selectedStaff == null)
+                {
+                    MessageBox.Show("Please select a staff to update.");
+                    return;
+                }
+
+                // Open a dialog to edit the staff details
+                EditStaffDialog editStaffDialog = new EditStaffDialog(selectedStaff);
+
+                // Display the dialog as a modal window
+                bool? result = editStaffDialog.ShowDialog();
+
+                // If the user clicks "Update" in the dialog and the result is true
+                if (result == true)
+                {
+                    // Get the updated staff details from the dialog
+                    MyStore_G5.Models.Staff updatedStaff = editStaffDialog.GetUpdatedStaffDetails();
+
+                    // Update the staff in the database
+                    selectedStaff.Name = updatedStaff.Name;
+                    selectedStaff.Password = updatedStaff.Password;
+                    selectedStaff.Role = updatedStaff.Role;
+
+                    con.SaveChanges();
+
+                    // Reload the staff list after updating
+                    LoadStaff();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occurred while updating the staff: {ex.Message}");
+            }
         }
 
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
+            try
+            {
+                // Get the selected staff from the ListView
+                MyStore_G5.Models.Staff selectedStaff = staffListView.SelectedItem as MyStore_G5.Models.Staff;
 
+                // Check if a staff is selected
+                if (selectedStaff == null)
+                {
+                    MessageBox.Show("Please select a staff to delete.");
+                    return;
+                }
+
+                // Confirm deletion with the user
+                MessageBoxResult result = MessageBox.Show("Are you sure you want to delete this staff?", "Confirm Deletion", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+                // If user confirms deletion
+                if (result == MessageBoxResult.Yes)
+                {
+                    // Remove the staff from the database
+                    con.Staffs.Remove(selectedStaff);
+                    con.SaveChanges();
+
+                    // Reload the staff list after deletion
+                    LoadStaff();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occurred while deleting the staff: {ex.Message}");
+            }
         }
     }
 }

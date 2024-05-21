@@ -68,7 +68,7 @@ namespace MyStore_G5
             if (string.IsNullOrWhiteSpace(txtStaffName.Text) ||
                 string.IsNullOrWhiteSpace(txtPassword.Text))
             {
-                MessageBox.Show("Vui lòng nhập đầy đủ thông tin nhân viên.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Please enter complete information!", "Error!", MessageBoxButton.OK, MessageBoxImage.Error);
                 return false;
             }
 
@@ -76,6 +76,11 @@ namespace MyStore_G5
         }
 
         private void txtStaffID_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void txtStaffName_TextChanged(object sender, TextChangedEventArgs e)
         {
 
         }

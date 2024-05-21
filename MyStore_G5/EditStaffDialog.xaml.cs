@@ -25,13 +25,23 @@ namespace MyStore_G5
         public EditStaffDialog(MyStore_G5.Models.Staff staff)
         {
             InitializeComponent();
-            ComboBoxItem selectedItem = (ComboBoxItem)cmbRole.SelectedItem;
-            string role = selectedItem.Tag.ToString();
+
+            // Initialize the staffToUpdate field
             staffToUpdate = staff;
 
             // Set the initial values in the text boxes
             nameTextBox.Text = staffToUpdate.Name;
             passwordTextBox.Text = staffToUpdate.Password;
+
+            // Find the ComboBoxItem corresponding to the staff's role
+            ComboBoxItem selectedItem = cmbRole.Items.OfType<ComboBoxItem>()
+                                                     .FirstOrDefault(item => item.Tag.ToString() == staffToUpdate.Role.ToString());
+
+            // Select the ComboBoxItem
+            if (selectedItem != null)
+            {
+                selectedItem.IsSelected = true;
+            }
         }
 
         // Method to get the updated staff details
@@ -40,10 +50,14 @@ namespace MyStore_G5
             // Update the staff details from the text boxes and combo box
             staffToUpdate.Name = nameTextBox.Text;
             staffToUpdate.Password = passwordTextBox.Text;
-            staffToUpdate.Role = int.Parse(cmbRole.SelectedItem.ToString()); // or cmbRole.Text, depending on what you want to save
+
+            // Retrieve the role from the selected ComboBoxItem's Tag property and parse it to an integer
+            ComboBoxItem selectedItem = (ComboBoxItem)cmbRole.SelectedItem;
+            staffToUpdate.Role = int.Parse(selectedItem.Tag.ToString());
 
             return staffToUpdate;
         }
+
 
         private void Update_Click(object sender, RoutedEventArgs e)
         {

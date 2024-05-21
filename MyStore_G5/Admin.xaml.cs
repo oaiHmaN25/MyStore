@@ -47,5 +47,10 @@ namespace MyStore_G5
             StaffManagement sm = new StaffManagement();
             frameMain.Content = sm;
         }
+
+        private void frameMain_Navigated(object sender, System.Windows.Navigation.NavigationEventArgs e)
+        {
+
+        }
     }
 }

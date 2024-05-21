@@ -24,10 +24,10 @@
         <ListView x:Name="staffListView" Grid.Row="2" Margin="10" SelectionChanged="staffListView_SelectionChanged">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding StaffId}"/>
-                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}"/>
-                    <GridViewColumn Header="Password" DisplayMemberBinding="{Binding Password}"/>
-                    <GridViewColumn Header="Role" DisplayMemberBinding="{Binding Role}"/>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding StaffId}" Width="50"/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" Width="150"/>
+                    <GridViewColumn Header="Password" DisplayMemberBinding="{Binding Password}" Width="100"/>
+                    <GridViewColumn Header="Role" DisplayMemberBinding="{Binding Role}" Width="100"/>
                 </GridView>
             </ListView.View>
         </ListView>

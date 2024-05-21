@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\dtxuj\MyStore\MyStore_G5\App.xaml
-101612480006
+11355487957
 
-19795809416
+20-1227426890
 221-1520520868
-Admin.xaml;AdminReport.xaml;Login.xaml;MainWindow.xaml;Profile.xaml;Staff.xaml;StaffAddOrder.xaml;StaffManagement.xaml;StaffOrder.xaml;StaffReport.xaml;
+AddStaffDialog.xaml;Admin.xaml;AdminReport.xaml;Login.xaml;MainWindow.xaml;Profile.xaml;Staff.xaml;StaffAddOrder.xaml;StaffManagement.xaml;StaffOrder.xaml;StaffReport.xaml;
 
 False
 

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\editstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:editstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\addstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,63 +170,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EditStaffDialog.xaml.cs",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml.cs",
               "RelativeDocumentMoniker": "EditStaffDialog.xaml.cs",
               "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml.cs",
               "RelativeToolTip": "EditStaffDialog.xaml.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDsAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T16:11:29.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EditStaffDialog.xaml",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml",
               "RelativeDocumentMoniker": "EditStaffDialog.xaml",
               "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml",
               "RelativeToolTip": "EditStaffDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-21T16:07:09.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T16:07:09.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AddStaffDialog.xaml",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml",
               "RelativeDocumentMoniker": "AddStaffDialog.xaml",
               "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml",
               "RelativeToolTip": "AddStaffDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-21T14:02:08.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T14:02:08.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StaffManagement.xaml",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml",
               "RelativeDocumentMoniker": "StaffManagement.xaml",
               "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml",
               "RelativeToolTip": "StaffManagement.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T16:31:59.146Z"
+              "WhenOpened": "2024-05-20T16:31:59.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "StaffManagement.xaml.cs",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml.cs",
               "RelativeDocumentMoniker": "StaffManagement.xaml.cs",
               "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml.cs",
               "RelativeToolTip": "StaffManagement.xaml.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAAAKUAAAANAAAA",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAowL0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:32:08.142Z"
+              "WhenOpened": "2024-05-20T16:32:08.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

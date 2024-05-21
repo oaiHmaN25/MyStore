@@ -165,5 +165,34 @@ namespace MyStore_G5
                 MessageBox.Show($"An error occurred while deleting the staff: {ex.Message}");
             }
         }
+
+        private void Search_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string searchText = searchTextBox.Text.Trim();
+
+                // Perform the search based on the entered text
+                var searchResults = con.Staffs.Where(staff => staff.Name.Contains(searchText)).ToList();
+
+                // Clear the existing items in the ListView
+                staffListView.Items.Clear();
+
+                // Add the search results to the ListView
+                foreach (var result in searchResults)
+                {
+                    staffListView.Items.Add(result);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occurred while searching: {ex.Message}");
+            }
+        }
+
+        private void searchTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

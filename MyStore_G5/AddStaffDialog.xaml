@@ -70,8 +70,7 @@
         <Label Content="Role:" Grid.Row="3"/>
         <ComboBox x:Name="cmbRole" Grid.Row="3" SelectedIndex="0">
             <ComboBoxItem Content="Staff" Tag="1"/>
-            <ComboBoxItem Content="Mentor" Tag="2"/>
-            <ComboBoxItem Content="Manager" Tag="3"/>
+            <ComboBoxItem Content="Admin" Tag="2"/>
         </ComboBox>
 
 

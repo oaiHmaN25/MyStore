@@ -3,131 +3,131 @@
   "WorkspaceRootPath": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\editstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:editstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\editstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\editstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:editstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\editstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:editstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\addstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\addstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:addstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffaddorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffaddorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffaddorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\stafforder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\stafforder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:stafforder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\stafforder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\stafforder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:stafforder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffaddorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffaddorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffaddorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\adminreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\adminreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:adminreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\adminreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\adminreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:adminreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\mystore_g5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\mystore_g5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:mystore_g5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EditStaffDialog.xaml.cs",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml.cs",
               "RelativeDocumentMoniker": "EditStaffDialog.xaml.cs",
@@ -178,34 +178,35 @@
               "RelativeToolTip": "EditStaffDialog.xaml.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:11:29.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T16:11:29.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EditStaffDialog.xaml",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml",
               "RelativeDocumentMoniker": "EditStaffDialog.xaml",
               "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml",
               "RelativeToolTip": "EditStaffDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-21T16:07:09.546Z"
+              "WhenOpened": "2024-05-21T16:07:09.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AddStaffDialog.xaml",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml",
               "RelativeDocumentMoniker": "AddStaffDialog.xaml",
               "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml",
               "RelativeToolTip": "AddStaffDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-21T14:02:08.961Z"
+              "WhenOpened": "2024-05-21T14:02:08.961Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StaffManagement.xaml",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml",
               "RelativeDocumentMoniker": "StaffManagement.xaml",
@@ -217,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StaffManagement.xaml.cs",
               "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml.cs",
               "RelativeDocumentMoniker": "StaffManagement.xaml.cs",
@@ -225,8 +226,7 @@
               "RelativeToolTip": "StaffManagement.xaml.cs",
               "ViewState": "AQIAAKIAAAAAAAAAAAAowL0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:32:08.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T16:32:08.142Z"
             },
             {
               "$type": "Document",

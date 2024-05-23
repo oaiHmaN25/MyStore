@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Automation;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
@@ -24,6 +25,12 @@ namespace MyStore_G5
             InitializeComponent();
         }
 
+        private void ManageProduct_Click(object sender, RoutedEventArgs e)
+        {
+            var ManageProduct = new ManageProduct();
+            ManageProduct.Show();
+            
+        }
         private void Profile_Click(object sender, RoutedEventArgs e)
         {
             lableWelcome.Visibility = Visibility.Hidden;

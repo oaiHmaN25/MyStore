@@ -35,8 +35,11 @@ namespace MyStore_G5
 
             var account = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetSection("account");
             var user = con.Staffs.FirstOrDefault(u => u.Name == username && u.Password == password);
-
-            if (username.Equals(account["username"]) && password.Equals(account["password"]))
+            if(username == "" || password == "")
+            {
+                MessageBox.Show("Vui lòng điền đầy đủ tài khoản và mật khẩu!");
+            }
+            else if (username.Equals(account["username"]) && password.Equals(account["password"]))
             {
                 Session.Username = username;
                 var Admin = new Admin();
@@ -48,6 +51,7 @@ namespace MyStore_G5
                 if (user != null)
                 {
                     Session.Username = username;
+                    Session.LoggedInStaffId = user.StaffId;
                     var Staff = new Staff();
                     Staff.Show();
                     this.Close();

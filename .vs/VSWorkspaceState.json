@@ -3,6 +3,10 @@
     "",
     "\\MyStore_G5"
   ],
-  "SelectedNode": "\\MyStore_G5\\MainWindow.xaml.cs",
+<<<<<<< HEAD
+  "SelectedNode": "\\MyStore_G5\\StaffAddOrder.xaml.cs",
+=======
+  "SelectedNode": "\\MyStore_G5\\StaffManagement.xaml",
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
   "PreviewInSolutionExplorer": false
 }

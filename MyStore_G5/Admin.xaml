@@ -29,22 +29,23 @@
                 <Separator Margin="0,5,0,5" Width="Auto" Height="1" Background="LightBlue"/>
                 <StackPanel Orientation="Vertical" Height="96" Width="156">
                     <Button Content="Manage Product" Margin="5" Background="White" BorderBrush="Gray" Click="ManageProduct_Click"/>
-                    <Button Content="Manage Staff" Margin="5" Background="White" BorderBrush="Gray"/>
+                    <Button Content="Manage Staff" Margin="5" Background="White" BorderBrush="Gray" Click="Staff_Click"/>
                     <Button Content="Manage Order" Margin="5" Background="White" BorderBrush="Gray" Click="Button_Click"/>
                 </StackPanel>
             </StackPanel>
             <StackPanel Grid.Row="2" Margin="0,2,0,0">
                 <Separator Margin="0,5,0,5" Width="Auto" Height="1" Background="LightBlue"/>
                 <StackPanel Orientation="Vertical" Height="84" Width="153">
-                    <Button Content="Profile" Margin="5" Background="White" BorderBrush="Gray"/>
-                    <Button Content="Logout" Margin="10" Background="Transparent" BorderThickness="0" Width="50" HorizontalAlignment="Left"/>
+                    <Button Content="Profile" Margin="5" Background="White" BorderBrush="Gray" Click="Profile_Click"/>
+                    <Button Content="Logout" Margin="10" Background="Transparent" BorderThickness="0" Width="50" HorizontalAlignment="Left" Click="Logout"/>
                 </StackPanel>
             </StackPanel>
         </Grid>
 
         
         <Grid Grid.Column="1">
-            <TextBlock Text="Không gian lớn để hiển thị các chức năng" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Frame x:Name="frameMain" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" NavigationUIVisibility="Hidden" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" Navigated="frameMain_Navigated"/>
+            <Label Name="lableWelcome" Content="WELCOME!" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30"></Label>
         </Grid>
     </Grid>
 </Window>

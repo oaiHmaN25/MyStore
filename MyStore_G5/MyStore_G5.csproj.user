@@ -7,7 +7,16 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="AddStaffDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminReport.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditStaffDialog.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Login.xaml.cs">
@@ -16,12 +25,36 @@
     <Compile Update="ManageProduct.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Profile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Staff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StaffAddOrder.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StaffManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StaffOrder.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StaffReport.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="AddStaffDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminReport.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditStaffDialog.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Login.xaml">
@@ -33,7 +66,22 @@
     <Page Update="ManageProduct.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Profile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Staff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffAddOrder.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffOrder.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StaffReport.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

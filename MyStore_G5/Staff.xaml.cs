@@ -24,9 +24,30 @@ namespace MyStore_G5
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+       
+        private void Profile_Click(object sender, RoutedEventArgs e)
         {
+            lableWelcome.Visibility = Visibility.Hidden;
+            Profile pro = new Profile();
+            frameMain.Content = pro;
+        }
 
+        private void Logout(object sender, RoutedEventArgs e)
+        {
+            Session.Logout();
+            this.Close();
+        }
+
+        private void ManageOrder(object sender, RoutedEventArgs e)
+        {
+            StaffOrder order = new StaffOrder();
+            frameMain.Content = order;
+        }
+
+        private void Report(object sender, RoutedEventArgs e)
+        {
+            StaffReport report = new StaffReport();
+            frameMain.Content = report;
         }
     }
 }

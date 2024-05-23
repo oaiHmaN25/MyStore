@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyStore_G5"
         mc:Ignorable="d"
-        Title="Login" Height="450" Width="800">
+        Title="Login" Height="450" Width="300">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
@@ -24,9 +24,9 @@
 
         <StackPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
             <Label Content="Username:"></Label>
-            <TextBox Name="UsernameTextBox" Height="30" Margin="0,5"/>
+            <TextBox Name="UsernameTextBox" Height="30" Margin="0,5" Padding="0,5,0,5"/>
             <Label Content="Password:"></Label>
-            <PasswordBox Name="PasswordBox" Height="30" Margin="0,5"/>
+            <PasswordBox Name="PasswordBox" Height="30" Margin="0,5" Padding="0,5,0,5"/>
         </StackPanel>
         <StackPanel Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">
             <Button Content="Login" Click="LoginButton_Click" Margin="0,5"/>

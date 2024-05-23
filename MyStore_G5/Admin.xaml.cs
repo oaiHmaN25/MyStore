@@ -31,8 +31,31 @@ namespace MyStore_G5
             ManageProduct.Show();
             
         }
-
+        private void Profile_Click(object sender, RoutedEventArgs e)
+        {
+            lableWelcome.Visibility = Visibility.Hidden;
+            Profile pro = new Profile();
+            frameMain.Content = pro;
+        }
         private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            AdminReport adminReport = new AdminReport();
+            frameMain.Content  = adminReport;
+        }
+        private void Logout(object sender, RoutedEventArgs e)
+        {
+            Session.Logout();
+            this.Close();
+        }
+
+        private void Staff_Click(object sender, RoutedEventArgs e)
+        {
+            lableWelcome.Visibility = Visibility.Hidden;
+            StaffManagement sm = new StaffManagement();
+            frameMain.Content = sm;
+        }
+
+        private void frameMain_Navigated(object sender, System.Windows.Navigation.NavigationEventArgs e)
         {
 
         }

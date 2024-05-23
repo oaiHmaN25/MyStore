@@ -9,12 +9,21 @@ MyStore_G5
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
 C:\Users\Admin\Desktop\MyStore\MyStore_G5\App.xaml
 13-501230350
 
 241205262908
 194750953030
 Admin.xaml;AdminOrderDetail.xaml;AdminReport.xaml;EditOrderDetail.xaml;Login.xaml;MainWindow.xaml;Profile.xaml;Staff.xaml;StaffAddOrder.xaml;StaffManagement.xaml;StaffOrder.xaml;StaffOrderDetail.xaml;StaffReport.xaml;
+=======
+C:\Users\dtxuj\MyStore\MyStore_G5\App.xaml
+12-2000009674
 
-True
+23-456725316
+221931549894
+AddStaffDialog.xaml;Admin.xaml;AdminReport.xaml;EditStaffDialog.xaml;Login.xaml;MainWindow.xaml;Profile.xaml;Staff.xaml;StaffAddOrder.xaml;StaffManagement.xaml;StaffOrder.xaml;StaffReport.xaml;
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
+
+False
 

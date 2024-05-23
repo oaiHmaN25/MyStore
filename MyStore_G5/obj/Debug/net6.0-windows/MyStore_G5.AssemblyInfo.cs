@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyStore_G5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+212441bb3d1899bad8fd3cac7d70f28cdb9a0f8e")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e9865468163f3f30ee2ad117e5b5c0bddcfcb61")]
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
 [assembly: System.Reflection.AssemblyProductAttribute("MyStore_G5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyStore_G5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

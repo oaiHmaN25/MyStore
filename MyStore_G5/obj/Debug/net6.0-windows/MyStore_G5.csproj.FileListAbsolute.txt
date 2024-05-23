@@ -291,3 +291,7 @@ C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\MyStore_G5.genruntime
 C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\ref\MyStore_G5.dll
 C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\StaffManagement.g.cs
 C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\StaffManagement.baml
+C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\AddStaffDialog.g.cs
+C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\AddStaffDialog.baml
+C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\EditStaffDialog.baml
+C:\Users\dtxuj\MyStore\MyStore_G5\obj\Debug\net6.0-windows\EditStaffDialog.g.cs

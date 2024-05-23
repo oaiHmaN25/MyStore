@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\admin\\desktop\\mystore\\mystore_g5\\staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -148,6 +149,134 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\admin\\desktop\\mystore\\mystore_g5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\editstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:editstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:addstaffdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|c:\\users\\dtxuj\\mystore\\mystore_g5\\staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffmanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\editstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:editstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\addstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:addstaffdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffaddorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffaddorder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\stafforder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:stafforder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\stafforder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:stafforder.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staffaddorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staffaddorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\staff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:staff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\adminreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:adminreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\adminreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:adminreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\mystore_g5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A0DA3157-BE3B-4C87-9FB1-E9F4F421DF72}|MyStore_G5.csproj|solutionrelative:mystore_g5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
     }
   ],
   "DocumentGroupContainers": [
@@ -199,6 +328,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
               "Title": "StaffAddOrder.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\StaffAddOrder.xaml.cs",
               "RelativeDocumentMoniker": "StaffAddOrder.xaml.cs",
@@ -270,12 +400,20 @@
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\StaffOrder.xaml.cs",
               "RelativeToolTip": "StaffOrder.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAWwB8AAAAsAAAA",
+=======
+              "Title": "EditStaffDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml.cs",
+              "RelativeDocumentMoniker": "EditStaffDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml.cs",
+              "RelativeToolTip": "EditStaffDialog.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAADsAAAAAAAAA",
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T09:17:51.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T16:11:29.307Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
               "Title": "StaffAddOrder.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\StaffAddOrder.xaml",
@@ -311,10 +449,82 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T09:49:56.485Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 0,
+              "Title": "EditStaffDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml",
+              "RelativeDocumentMoniker": "EditStaffDialog.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\EditStaffDialog.xaml",
+              "RelativeToolTip": "EditStaffDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T16:07:09.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStaffDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml",
+              "RelativeDocumentMoniker": "AddStaffDialog.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml",
+              "RelativeToolTip": "AddStaffDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T14:02:08.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml",
+              "RelativeDocumentMoniker": "StaffManagement.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml",
+              "RelativeToolTip": "StaffManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T16:31:59.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml.cs",
+              "RelativeDocumentMoniker": "StaffManagement.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffManagement.xaml.cs",
+              "RelativeToolTip": "StaffManagement.xaml.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAowL0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:32:08.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStaffDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml.cs",
+              "RelativeDocumentMoniker": "AddStaffDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\AddStaffDialog.xaml.cs",
+              "RelativeToolTip": "AddStaffDialog.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:04:08.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Profile.xaml.cs",
+              "RelativeToolTip": "Profile.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAMwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:53:59.073Z"
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+<<<<<<< HEAD
               "Title": "StaffReport.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\StaffReport.xaml",
               "RelativeDocumentMoniker": "StaffReport.xaml",
@@ -327,18 +537,244 @@
             {
               "$type": "Document",
               "DocumentIndex": 12,
+=======
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Profile.xaml",
+              "RelativeDocumentMoniker": "Profile.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Profile.xaml",
+              "RelativeToolTip": "Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T08:53:58.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffAddOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffAddOrder.xaml.cs",
+              "RelativeDocumentMoniker": "StaffAddOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffAddOrder.xaml.cs",
+              "RelativeToolTip": "StaffAddOrder.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:42:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Admin.xaml",
+              "RelativeDocumentMoniker": "Admin.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Admin.xaml",
+              "RelativeToolTip": "Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T08:53:59.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Admin.xaml.cs",
+              "RelativeToolTip": "Admin.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:53:59.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StaffOrder.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffOrder.xaml.cs",
+              "RelativeDocumentMoniker": "StaffOrder.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffOrder.xaml.cs",
+              "RelativeToolTip": "StaffOrder.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:17:51.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaffOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffOrder.xaml",
+              "RelativeDocumentMoniker": "StaffOrder.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffOrder.xaml",
+              "RelativeToolTip": "StaffOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T08:53:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffReport.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffReport.xaml.cs",
+              "RelativeDocumentMoniker": "StaffReport.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffReport.xaml.cs",
+              "RelativeToolTip": "StaffReport.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAjwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:38:53.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StaffReport.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffReport.xaml",
+              "RelativeDocumentMoniker": "StaffReport.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffReport.xaml",
+              "RelativeToolTip": "StaffReport.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T09:15:24.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StaffAddOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffAddOrder.xaml",
+              "RelativeDocumentMoniker": "StaffAddOrder.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\StaffAddOrder.xaml",
+              "RelativeToolTip": "StaffAddOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T09:41:25.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Staff.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Staff.xaml",
+              "RelativeDocumentMoniker": "Staff.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Staff.xaml",
+              "RelativeToolTip": "Staff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T08:53:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T08:53:59.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:49:55.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-20T08:53:59.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:53:59.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Staff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Staff.xaml.cs",
+              "RelativeDocumentMoniker": "Staff.xaml.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Staff.xaml.cs",
+              "RelativeToolTip": "Staff.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAhwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:53:59.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:57:20.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:57:26.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:49:56.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:53:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
               "Title": "AdminReport.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\AdminReport.xaml",
               "RelativeDocumentMoniker": "AdminReport.xaml",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\AdminReport.xaml",
               "RelativeToolTip": "AdminReport.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T09:05:43.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T09:05:43.015Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 26,
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
               "Title": "AdminReport.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\AdminReport.xaml.cs",
               "RelativeDocumentMoniker": "AdminReport.xaml.cs",
@@ -472,6 +908,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 24,
               "Title": "StaffManagement.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\StaffManagement.xaml",
@@ -602,6 +1039,9 @@
             {
               "$type": "Document",
               "DocumentIndex": 34,
+=======
+              "DocumentIndex": 28,
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -613,7 +1053,23 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 36,
+=======
+              "DocumentIndex": 31,
+              "Title": "MyStore_G5.csproj",
+              "DocumentMoniker": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\MyStore_G5.csproj",
+              "RelativeDocumentMoniker": "MyStore_G5.csproj",
+              "ToolTip": "C:\\Users\\dtxuj\\MyStore\\MyStore_G5\\MyStore_G5.csproj",
+              "RelativeToolTip": "MyStore_G5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T08:53:59.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -624,7 +1080,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 35,
+=======
+              "DocumentIndex": 29,
+>>>>>>> 230b2816d909c2528478011a28d1ee98bcc4516d
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\MyStore\\MyStore_G5\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
